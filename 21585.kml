@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Plano de la Nobilísima Ciudad de México [Plan of the Most Noble City of Mexico]]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>19.464407258301577</north>
+          <south>19.409504953332327</south>
+          <east>-99.10904211022796</east>
+          <west>-99.15607941184278</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>http://mapwarper.net/maps/21585.kml?DBOX=-99.15607941184278,19.409504953332327,-99.10904211022796,19.464407258301577,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
